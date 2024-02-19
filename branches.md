@@ -19,6 +19,7 @@ This document outlines the branch structure for the CSS Tutorial project, design
 - `hotfix/*`
 
 ### Content Categories
+- `00_template`
 - `01_introduction`
 - `02_prerequisites_setup`
 - `03_css_fundamentals`
@@ -56,6 +57,9 @@ This document outlines the branch structure for the CSS Tutorial project, design
 - **`bugfix/*`**: Branches dedicated to fixing bugs and issues, named after the specific bug being addressed (e.g., `bugfix/flexbox_correction`).
 - **`hotfix/*`**: Branches for urgent fixes that need immediate application to the `main` branch, typically for critical issues discovered in production.
 
+### Template Branch
+- **`00_template``**: Template branch to base all other course on, will be updated:
+git 
 ### Content Category Branches
 
 - **`01_introduction`**: Covers the introductory content and basics of CSS.
